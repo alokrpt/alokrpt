@@ -64,7 +64,9 @@
 - **🌾 Farm Management**: Agricultural solutions with offline-first architecture
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<p align="center" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" style="width:100%;" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alokrpt&icon=0&color=1)](https://visitcount.itsvg.in)
