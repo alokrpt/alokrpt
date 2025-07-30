@@ -43,7 +43,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokrpt&theme=minimal"/>
+	<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=alokrpt&theme=minimal"/>
 </p>
 
 ## 💳 Github Profile Summary Card
